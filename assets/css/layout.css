@@ -1,0 +1,18 @@
+nav .navbar-brand {
+	background-color: #34333a;
+	color: white;
+	font-family: Shadows Into Light;
+}
+
+div .introduction {
+	font-family: Pacifico;
+	font-size: 5em;
+	color: white;
+	text-align: center;
+	padding-top: 10%
+}
+
+footer {
+	padding-top: 30%
+}
+
